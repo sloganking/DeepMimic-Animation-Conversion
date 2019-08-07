@@ -4,7 +4,7 @@ The [DeepMimic project](https://github.com/xbpeng/DeepMimic) currently offers no
 
 ## Repositories
 
-### Owned by me
+### Owned by SleepingFox
 
 [FbxToMimic](https://github.com/SleepingFox88/FbxToMimic)
 
