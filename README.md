@@ -4,6 +4,12 @@ The [DeepMimic project](https://github.com/xbpeng/DeepMimic) currently offers no
 
 ## Repositories
 
+### Owned by me
+
 [FbxToMimic](https://github.com/SleepingFox88/FbxToMimic)
 
 [BvhToMimic](https://github.com/SleepingFox88/BvhToMimic)
+
+### Owned by others
+
+[BvhToDeepMimic](https://github.com/BartMoyaers/BvhToDeepMimic)
