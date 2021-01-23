@@ -6,9 +6,9 @@ The [DeepMimic project](https://github.com/xbpeng/DeepMimic) currently offers no
 
 ### Owned by sloganking
 
-[FbxToMimic](https://github.com/SleepingFox88/FbxToMimic)
+[FbxToMimic](https://github.com/sloganking/FbxToMimic)
 
-[BvhToMimic](https://github.com/SleepingFox88/BvhToMimic)
+[BvhToMimic](https://github.com/sloganking/BvhToMimic)
 
 ### Owned by others
 
